@@ -7,7 +7,7 @@ import re
 app = Flask(__name__)
 
 # OpenAI API 키 설정
-openai.api_key = "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"
+openai.api_key = ""
 
 csv_file_path = "./3.csv"
 
